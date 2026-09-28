@@ -1,4 +1,4 @@
-# HASIF FILE ORGANIZER
+# FILE ORGANIZER
 
 > Smart • Safe • Automatic File Management
 
