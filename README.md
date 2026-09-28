@@ -1,4 +1,4 @@
-# HASIF FILE ORGANIZER
+# FILE ORGANIZER
 
 <p align="center">
   <strong>Smart • Safe • Automatic File Management</strong>
@@ -21,7 +21,7 @@
 
 ## 🖥️ Overview
 
-**HASIF FILE ORGANIZER** is a Windows-based file management utility designed to automatically organize files according to their file extensions.
+**FILE ORGANIZER** is a Windows-based file management utility designed to automatically organize files according to their file extensions.
 
 Instead of manually sorting documents, images, videos, music, archives, applications, and other files, simply place the organizer inside a folder and let it categorize the files automatically.
 
@@ -153,7 +153,7 @@ Downloads/
 
 ## 🛡️ Safety
 
-HASIF FILE ORGANIZER is designed to minimize accidental file changes.
+FILE ORGANIZER is designed to minimize accidental file changes.
 
 ### The application:
 
@@ -271,7 +271,7 @@ Additional categories and extensions can be added according to your requirements
 ## 📁 Project Structure
 
 ```text
-hasif-file-organizer/
+file-organizer/
 │
 ├── Hasif_File_Organizer.bat
 ├── README.md
@@ -291,7 +291,7 @@ hasif-file-organizer/
 
 ## 🔐 Privacy
 
-HASIF FILE ORGANIZER is designed as a local utility.
+FILE ORGANIZER is designed as a local utility.
 
 It does not upload your files, require an online account, or communicate with a remote server.
 
