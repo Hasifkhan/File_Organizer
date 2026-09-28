@@ -51,7 +51,7 @@ The application is designed with a simple interactive console interface, Preview
 The application starts with a simple interactive menu where you can preview files, organize them, view supported file types, or access information about the application.
 
 <p align="center">
-  <img src="screenshort/HASIF_FILE_ORGANIZER_Main_Menu.png" alt="HASIF FILE ORGANIZER Main Menu" width="800">
+  <img src="screenshots/HASIF_FILE_ORGANIZER_Main_Menu.png" alt="HASIF FILE ORGANIZER Main Menu" width="800">
 </p>
 
 ---
