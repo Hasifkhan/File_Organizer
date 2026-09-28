@@ -203,7 +203,7 @@ Download or clone this repository.
 Copy:
 
 ```text
-Hasif_File_Organizer.bat
+File_Organizer.bat
 ```
 
 into the folder you want to organize.
@@ -213,7 +213,7 @@ into the folder you want to organize.
 Double-click:
 
 ```text
-Hasif_File_Organizer.bat
+File_Organizer.bat
 ```
 
 ### 4. Preview
