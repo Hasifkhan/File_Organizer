@@ -94,7 +94,7 @@ Downloads/
 ├── song.mp3
 ├── archive.zip
 ├── Windows.iso
-└── Hasif_File_Organizer.bat
+└── File_Organizer.bat
 ```
 
 ### After
@@ -123,7 +123,7 @@ Downloads/
 ├── Disk Images/
 │   └── Windows.iso
 │
-└── Hasif_File_Organizer.bat
+└── File_Organizer.bat
 ```
 
 ---
