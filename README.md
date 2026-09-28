@@ -23,7 +23,7 @@ Documents, Spreadsheets, Presentations, PDFs, Text, Images, Videos, Music, Appli
 
 ## Usage
 
-1. Copy `Hasif_File_Organizer.bat` into the folder you want to organize.
+1. Copy `File_Organizer.bat` into the folder you want to organize.
 2. Run the BAT file.
 3. Choose **Preview Files** first.
 4. If the preview is correct, choose **Organize Files** and confirm with `Y`.
