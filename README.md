@@ -51,7 +51,7 @@ The application is designed with a simple interactive console interface, Preview
 The application starts with a simple interactive menu where you can preview files, organize them, view supported file types, or access information about the application.
 
 <p align="center">
-  <img src="assets/screenshots/main-menu.png" alt="HASIF FILE ORGANIZER Main Menu" width="800">
+  <img src="screenshort/HASIF_FILE_ORGANIZER_Main_Menu.png" alt="HASIF FILE ORGANIZER Main Menu" width="800">
 </p>
 
 ---
@@ -63,7 +63,7 @@ Before moving any files, you can use **Preview Files** to see how the organizer 
 Preview mode does **not** modify or move anything.
 
 <p align="center">
-  <img src="assets/screenshots/preview-mode.png" alt="HASIF FILE ORGANIZER Preview Mode" width="800">
+  <img src="screenshots/HASIF_FILE_ORGANIZER_Preview_Mode.png" alt="HASIF FILE ORGANIZER Preview Mode" width="800">
 </p>
 
 ---
@@ -75,7 +75,7 @@ After reviewing the preview, select **Organize Files** and confirm the operation
 The organizer automatically creates the required category folders and moves the corresponding files.
 
 <p align="center">
-  <img src="assets/screenshots/organization-complete.png" alt="HASIF FILE ORGANIZER Organization Complete" width="800">
+  <img src="screenshots/HASIF_FILE_ORGANIZER_Organization_Complete.png" alt="HASIF FILE ORGANIZER Organization Complete" width="800">
 </p>
 
 ---
